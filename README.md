@@ -29,4 +29,4 @@ From there, the Locations API returns a response including a `locationKey`, whic
     - [AccuWeather API](https://developer.accuweather.com/)
 
 # Work
-This app is currently in-progress. All code is pushed to a private repository.
+This app is currently in-progress. All code is pushed to a private Bitbucket repository.
